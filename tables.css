@@ -1,0 +1,8 @@
+
+body{background-color:silver; margin:25px;}
+table, th, td {border:1px solid grey; border-collapse: collapse;}
+th, td{padding: 10px;}
+a{padding:10px; text-decoration: none; color:black; background-color:skyblue;}
+a:hover{padding: 15px; color: white; background-color: black;}
+.image {text-align:center;}
+.links {text-align:center; padding: 10px}

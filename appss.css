@@ -1,0 +1,12 @@
+
+body {background-color: Tomato; margin:25px}
+.app {display:grid; grid-template-columns: 30% 70%; grid-gap: 10px; grid-auto-rows: minmax(100px auto);}
+.app > div{background-color: #ff1a1a; padding: 10px;}
+.app > div:nth-child(even) {background-color: #ffb3b3;}
+.app > div:nth-child(odd) {text-align: center;}
+a{padding:10px; text-decoration: none; color:black; background-color:yellow;}
+a:hover{padding: 15px; color: white; background-color: black;}
+.links {text-align:center; padding: 10px}
+
+
+

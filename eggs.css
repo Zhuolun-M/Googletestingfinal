@@ -1,0 +1,9 @@
+
+body{background-color:yellow; margin:25px}
+.egg {display:grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px; grid-auto-rows: minmax(100px auto);}
+.egg > div{background-color: gold; padding: 10px;}
+.egg > div:nth-child(n+3) {text-align:center;}
+a{padding:10px; text-decoration: none; color:black; background-color:silver;}
+a:hover{padding: 15px; color: white; background-color: black;}
+.links {text-align:center; padding: 10px}
+
