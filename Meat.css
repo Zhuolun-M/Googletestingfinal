@@ -1,5 +1,6 @@
 
-body{background-color:white; color: black; margin:30px; margin-top: -30px;}
+body{background-color:white; color: black; margin:30px; margin-top: -30px; }
+h1, h2, h3, h4, h5, h6 {text-shadow: 5px 5px 5px #ccc;}
 .heading {text-align:center;}
 .website-body > div{background-color: White; padding: 10px;}
 .website-body {display:grid; grid-template-columns: 20% 60% 20%; grid-gap: 10px; }
