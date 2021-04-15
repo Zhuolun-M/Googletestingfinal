@@ -1,0 +1,5 @@
+
+body{background-color:white; color: black; margin:30px; margin-top: -30px;}
+.heading {text-align:center;}
+.website-body > div{background-color: White; padding: 10px;}
+.website-body {display:grid; grid-template-columns: 20% 60% 20%; grid-gap: 10px; }
